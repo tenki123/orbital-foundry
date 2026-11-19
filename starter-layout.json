@@ -1,0 +1,14 @@
+{
+  "name": "First shipment",
+  "width": 7,
+  "height": 3,
+  "contract": { "item": "alloy_plate", "quantity": 12 },
+  "tiles": [
+    { "x": 0, "y": 1, "kind": "ore_deposit" },
+    { "x": 1, "y": 1, "kind": "drill" },
+    { "x": 2, "y": 1, "kind": "belt", "direction": "east" },
+    { "x": 3, "y": 1, "kind": "smelter" },
+    { "x": 4, "y": 1, "kind": "belt", "direction": "east" },
+    { "x": 5, "y": 1, "kind": "cargo_pad" }
+  ]
+}
